@@ -1,0 +1,2 @@
+This is a change made in branch1.
+Adding more text for testing the branch merge.
